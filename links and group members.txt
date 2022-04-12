@@ -1,0 +1,6 @@
+HAI Group members{Tapiwa Charekwa HAI R204438U,,..Fastino Mateteva HAI R205684K}
+link to the video how the application works{https://drive.google.com/file/d/1Jfpmp4XaU8KSAOEJfnA2czOgv1mQgaP9/view?usp=sharing}
+link to the inceptin retraining notebook{https://github.com/charekwat/Object_Detection_and_Classification/blob/main/InceptionV3_retraining.ipynb}
+github repository{https://github.com/charekwat/Object_Detection_and_Classification}
+link to the Aplication on cloud{https://share.streamlit.io/charekwat/object_detection_and_classification/main/main.py}
+HAI Group members{Tapiwa Charekwa HAI R204438U,,..Fastino Mateteva HAI R205684K}
