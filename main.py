@@ -99,7 +99,6 @@ def main():
         else:
             ## create the directory
             os.mkdir('uploadedVideos')
-            return
         if st.button("Search"):
             output=detect_Object()
             st.success(output)
