@@ -123,6 +123,5 @@ Werkzeug==2.1.1
 widgetsnbextension==3.6.0
 wrapt==1.14.0
 zipp==3.8.0
-pip install opencv-python
 apt-get upgrade
 apt update && apt install -y libsm6 libxext6 ffmpeg libfontconfig1 libxrender1 libgl1-mesa-glx
