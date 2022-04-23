@@ -96,9 +96,15 @@ def main():
           #search_object = st.text_input('search', 'Search....')
           search_item = st.text_input('search object')
                
-        if st.button("Search"):
-            output=detect_Object()
-            st.success(output)
+          if st.button("Search"):
+              output=detect_Object()
+              st.success(output)
+      else:
+    ## create the directory
+    os.mkdir('uploadedVideos')
+    return
+return
+ 
 
 
 
