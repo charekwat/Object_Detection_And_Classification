@@ -95,11 +95,11 @@ def main():
           #detect_Object()
           #search_object = st.text_input('search', 'Search....')
           search_item = st.text_input('search object')
-              else:
-        os.mkdir('uploadedVideos')
-        return
-    return
           
+         else:   
+           os.mkdir('uploadedVideos')
+            return
+        return     
         if st.button("Search"):
             output=detect_Object()
             st.success(output)
